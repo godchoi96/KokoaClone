@@ -25,6 +25,7 @@
         <!-- Lightening Icon-->
       </div>
     </div>
+    <!-- status bar -->
 
     <nav class="nav">
       <ul class="nav__ul">
@@ -50,7 +51,7 @@
         </li>
       </ul>
     </nav>
-    <!-- nav>ul>li*4>a -->
+    <!-- navigation bar / nav>ul>li*4>a -->
 
     <header class="screen-header">
       <h1 class="screen-header__title">Friends</h1>
@@ -60,9 +61,55 @@
         <span><i class="fas fa-cog fa-lg"></i></span>
       </div>
     </header>
+    <!-- header -->
+
+    <a id="friends-display-link" href="">
+      <i class="fas fa-info-circle"></i> Friends' Names Display
+      <i class="fas fa-chevron-right fa-xs"></i>
+    </a>
+    <!-- tbody -->
+
+    <main class="friends-screen">
+      <div class="user-component">
+        <div class="user-component__column">
+          <img
+            src="screenshots/ChoiSeongDae.jpg"
+            class="user-component__avatar user-component__avatar--xl"
+          />
+          <div class="user-component__text">
+            <h4 class="user-component__title">Seongdae</h4>
+            <!-- <h6 class="user-component__subtitle">this text whatever</h6> -->
+          </div>
+        </div>
+        <div class="user-component__column"></div>
+      </div>
+      <!-- user-component -->
+
+      <div class="friends-screen__channel">
+        <div class="friends-screen__channel-header">
+          <span>Channel</span>
+          <i class="fas fa-chevron-up fa-xs"></i>
+        </div>
+        <div>
+          <div class="user-component__column">
+            <img
+              src="screenshots/ChoiSeongDae.jpg"
+              class="user-component__avatar user-component__avatar--sm"
+            />
+            <div class="user-component__text">
+              <h4 class="user-component__title">Channel</h4>
+            </div>
+            <span>2</span>
+            <i class="fas fa-chevron-right fa-xs"></i>
+          </div>
+        </div>
+      </div>
+    </main>
+
     <script
       src="https://kit.fontawesome.com/6478f529f2.js"
       crossorigin="anonymous"
     ></script>
+    <!-- script fontawesome site -->
   </body>
 </html>
