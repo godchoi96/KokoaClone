@@ -1,5 +1,5 @@
 # Kokoa Clone 2021 Update
 
-Clone coding is Good
+실제 카카오톡에서 운영하고 있는 어플리케이션을 일부 따라 만든다는 느낌으로 클론 코딩하였습니다.
 
-Now we're starting!
+옵션 버튼을 제외하고는 실제로 다른 버튼을 눌러도 구동되지는 않습니다. HTML, CSS의 역량을 키우는 것이 목적입니다.
