@@ -1,4 +1,4 @@
-# Kokoa Clone 2021 Update
+# Kokoa Clone 2021 
 
 카카오톡에서 실제 구현되고 있는 어플리케이션의 일부를 HTML, CSS만을 가지고 만들어 보았습니다.
 
