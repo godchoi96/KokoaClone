@@ -1,6 +1,6 @@
 # Kokoa Clone 2021 
 
-개발 : HTML, CSS
+개발언어 : HTML, CSS
 
 프로젝트 목적 : HTML, CSS의 스크립트 언어 공부
 
